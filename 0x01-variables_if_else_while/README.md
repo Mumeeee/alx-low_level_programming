@@ -1,0 +1,1 @@
+printing scripts in c
